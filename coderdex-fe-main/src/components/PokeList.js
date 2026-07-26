@@ -4,7 +4,7 @@ import CardContent from "@mui/material/CardContent";
 import CardActions from "@mui/material/CardActions";
 import Typography from "@mui/material/Typography";
 import { useState } from "react";
-import { Box, Button, Container, Grid, Stack } from "@mui/material";
+import { Box, Container, Grid, Stack } from "@mui/material";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { PokeType } from "./PokeType";
 import { useDispatch, useSelector } from "react-redux";
